@@ -1,0 +1,15 @@
+com\taskflow\slice\TaskRepositoryTest.class
+com\taskflow\unit\TaskServiceTest$CambiarStatus.class
+com\taskflow\integration\InfoControllerTest.class
+com\taskflow\slice\ProjectControllerTest.class
+com\taskflow\slice\TaskControllerTest.class
+com\taskflow\unit\ReportServiceTest.class
+com\taskflow\unit\TaskValidationTest.class
+com\taskflow\unit\TaskServiceTest$Eliminar.class
+com\taskflow\integration\FlujoCompletoE2ETest.class
+com\taskflow\integration\SecurityRulesTest.class
+com\taskflow\unit\TaskServiceTest.class
+com\taskflow\unit\TaskServiceTest$Crear.class
+com\taskflow\integration\TaskflowApiApplicationTests.class
+com\taskflow\integration\TaskRepositoryPostgresIT.class
+com\taskflow\integration\AuthControllerTest.class

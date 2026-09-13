@@ -3,7 +3,7 @@
 **Autor:** Julio Daniel Hernández Medrano  
 **Proyecto:** TaskFlow API (`taskflow-aws-JulioHdez`)
 
-## 1. Resumen Ejecutivo
+## 1. Resumen
 Este documento detalla la arquitectura, configuración y ejecución de un pipeline de Integración y Despliegue Continuos (CI/CD) para la aplicación TaskFlow API, desarrollada en Spring Boot (Java 21). El diseño del pipeline asegura que cualquier integración de código en la rama `main` desencadene un flujo automatizado de compilación, empaquetado y despliegue en un entorno de Amazon Web Services (AWS), eliminando la necesidad de ejecución manual de comandos en el servidor.
 
 ## 2. Arquitectura y Componentes de AWS
